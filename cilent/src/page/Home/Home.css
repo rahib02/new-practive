@@ -1,0 +1,214 @@
+.section1 {
+    background-image: url('https://preview.colorlib.com/theme/oneschool/images/hero_1.jpg.webp');
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    box-sizing: border-box;
+    padding: 10% 10%;
+    justify-content: center;
+}
+
+.section1_form {
+    text-align: start;
+    box-sizing: border-box;
+    width: 440px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+
+.section1_form h3 {
+    font-weight: 500;
+
+}
+
+.section1_text {
+    box-sizing: border-box;
+    padding: 0 30px;
+    color: white;
+    max-width: 540px;
+    text-align: start;
+}
+
+.section1_text h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 1.5rem;
+}
+
+.section1_btn {
+    background-color: #7971ea;
+    border-color: #7971ea;
+    border-radius: 40px;
+    color: #fff;
+    width: 200px;
+    height: 52px;
+}
+
+
+.form {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.form input {
+    width: 360px;
+    height: 42px;
+    margin: 20px 0;
+}
+
+.submit_btn {
+    color: white;
+    text-align: center;
+    border: none;
+    background-color: #7971ea;
+    width: 110px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 30px;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 900;
+}
+
+.section2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    box-sizing: border-box;
+    width: 100%;
+    margin: auto;
+    padding: 0 15%;
+}
+
+.section2_header {
+    margin: auto;
+    max-width: 600px;
+}
+
+.section2_header h2 {
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+.section2_header_img {
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+}
+
+.section2_img {
+    background-image: url("https://preview.colorlib.com/theme/oneschool/images/undraw_youtube_tutorial.svg");
+    width: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.section2_text {
+
+    text-align: start;
+    box-sizing: border-box;
+    width: 40%;
+    padding: 50px 30px;
+}
+
+.section3 h3 {
+    margin: 0;
+}
+
+.section2_text h2 {
+    font-size: 2rem;
+    font-weight: 400;
+    margin: 40px 0;
+}
+
+.section2_text_icon {
+    margin: 60px 0;
+    color: #7971ea;
+}
+
+.section3 {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0 15%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.section3_cards {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.section3_card {
+    box-sizing: border-box;
+    padding: 30px;
+    width: 25%;
+    border: 1px grey solid;
+}
+
+.section3_card img {
+    width: 143px;
+    border-radius: 50%;
+}
+
+.section4 {
+    background-color: whitesmoke;
+}
+
+.section4_header {
+    margin: auto;
+
+    text-align: start;
+
+    max-width: 600px;
+}
+
+.section4_header h2 {
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+.mesage {
+    margin: auto;
+    max-width: 600px;
+}
+
+.names {
+    display: flex;
+    justify-content: space-between;
+}
+
+.names input {
+    width: 45% !important;
+}
+
+.form input {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 9px;
+}
+
+.section4_btn {
+    color: white;
+    text-align: center;
+    border: none;
+    background-color: #7971ea;
+    width: 250px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 30px;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 900;
+}

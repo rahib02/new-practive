@@ -1,0 +1,46 @@
+.Navbar {
+    position: fixed;
+    box-sizing: border-box;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10%;
+    height: 60px;
+}
+
+.Navbar a {
+    text-decoration: none;
+    color: black;
+}
+
+.Navbar a p {
+    font-weight: 900;
+    font-size: 1.3rem;
+}
+
+.Navbar ul {
+    list-style: none;
+    display: flex;
+}
+
+.target li {
+
+    margin-left: 30px;
+}
+
+.navbar_btn {
+    margin-top: auto;
+    margin-bottom: auto;
+    color: white;
+    text-align: center;
+    border: none;
+    background-color: #7971ea;
+    width: 150px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 30px;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 900;
+}
